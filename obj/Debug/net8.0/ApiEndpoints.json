@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "MaterialAPI_Azure.Controllers.MaterialController",
+    "Method": "GetActiveMaterials",
+    "RelativePath": "api/Material/active",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
