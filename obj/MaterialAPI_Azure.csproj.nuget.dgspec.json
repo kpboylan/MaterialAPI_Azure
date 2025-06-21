@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[14.0.0, )"
             },
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.23.0, )"
+            },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[6.0.2, )"

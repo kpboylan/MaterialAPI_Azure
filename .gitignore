@@ -1,0 +1,27 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Rider & VS Code
+.idea/
+.vscode/
+
+# Environment secrets
+appsettings.json
+appsettings.*.json
+
+# dotnet secrets
+secrets.json
+
+# Publish output
+publish/

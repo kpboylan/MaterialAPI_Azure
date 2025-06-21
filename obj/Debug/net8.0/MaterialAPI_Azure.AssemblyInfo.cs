@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaterialAPI_Azure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b6e18b333f3854428328536ab16e6218cf9d972")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaterialAPI_Azure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaterialAPI_Azure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
